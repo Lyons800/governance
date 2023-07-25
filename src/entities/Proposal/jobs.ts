@@ -1,6 +1,7 @@
 import JobContext from 'decentraland-gatsby/dist/entities/Job/context'
 import snakeCase from 'lodash/snakeCase'
 
+import { commentProposalUpdateInDiscourse } from '../../back/routes/proposal'
 import { BudgetService } from '../../services/BudgetService'
 import { DiscordService } from '../../services/DiscordService'
 import { ErrorService } from '../../services/ErrorService'
@@ -9,7 +10,6 @@ import { Budget } from '../Budget/types'
 
 import ProposalModel from './model'
 import { ProposalOutcome, ProposalWithOutcome, calculateOutcome, getWinnerTender } from './outcome'
-import { commentProposalUpdateInDiscourse } from './routes'
 import { ProposalAttributes, ProposalStatus, ProposalType } from './types'
 import { asNumber } from './utils'
 

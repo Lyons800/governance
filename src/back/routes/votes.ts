@@ -2,18 +2,18 @@ import handleAPI from 'decentraland-gatsby/dist/entities/Route/handle'
 import routes from 'decentraland-gatsby/dist/entities/Route/routes'
 import { Request } from 'express'
 
-import { validateAddress } from '../../back/routes/validations'
 import { SnapshotGraphql } from '../../clients/SnapshotGraphql'
 import { SnapshotVote } from '../../clients/SnapshotGraphqlTypes'
+import ProposalModel from '../../entities/Proposal/model'
+import { ProposalAttributes } from '../../entities/Proposal/types'
+import VotesModel from '../../entities/Votes/model'
+import { Vote, VoteAttributes } from '../../entities/Votes/types'
+import { createVotes, toProposalIds } from '../../entities/Votes/utils'
 import { SnapshotService } from '../../services/SnapshotService'
 import Time from '../../utils/date/Time'
-import ProposalModel from '../Proposal/model'
-import { getProposal } from '../Proposal/routes'
-import { ProposalAttributes } from '../Proposal/types'
 
-import VotesModel from './model'
-import { Vote, VoteAttributes } from './types'
-import { createVotes, toProposalIds } from './utils'
+import { getProposal } from './proposal'
+import { validateAddress } from './validations'
 
 export default routes((route) => {
   route.get('/proposals/:proposal/votes', handleAPI(getProposalVotes))

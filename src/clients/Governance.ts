@@ -481,8 +481,16 @@ export class Governance extends API {
 
   async getProposalVotes(proposalId: string) {
     const response = await this.fetch<ApiResponse<SnapshotVote[]>>(
-      `/snapshot/proposal-votes/${proposalId}`,
+      `/snapshot/votes/${proposalId}`,
       this.options().method('GET')
+    )
+    return response.data
+  }
+
+  async getAllVotesBetweenDates(start: Date, end: Date) {
+    const response = await this.fetch<ApiResponse<SnapshotVote[]>>(
+      `/snapshot/votes/all`,
+      this.options().method('POST').json({ start, end })
     )
     return response.data
   }

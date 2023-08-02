@@ -7,6 +7,10 @@
   margin-right: 0;
 } */
 
+.active-bar {
+  border-bottom: 3px solid #0054f9 !important;
+}
+
 .Navigation .dcl.tabs-left {
   display: flex;
   align-items: center;

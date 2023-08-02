@@ -19,6 +19,8 @@ function Navbar(props: UserMenuProps) {
           <BurgerMenu />
         </Mobile>
       )}
+
+      {/* Just sign in button */}
       <NotMobile>
         <UserMenu {...props} />
       </NotMobile>

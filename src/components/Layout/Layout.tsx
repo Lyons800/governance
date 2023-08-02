@@ -11,6 +11,7 @@ import WalletSelectorModal from '../Modal/WalletSelectorModal'
 import WrongNetworkModal from '../Modal/WrongNetworkModal'
 
 import './Layout.css'
+import Navigation from './Navigation'
 
 const CHAIN_ID: ChainId[] = env('GATSBY_DEFAULT_CHAIN_ID', String(ChainId.ETHEREUM_MAINNET))
   .split(',')
@@ -43,7 +44,7 @@ export default function Layout({ children, ...props }: LayoutProps) {
 
   return (
     <>
-      <Navbar activePage="dao" onClickMenuOption={handleClickMenuOption} rightMenu={props.rightMenu} />
+      {/* <Navbar activePage="dao" onClickMenuOption={handleClickMenuOption} rightMenu={props.rightMenu} /> */}
       <main>{children}</main>
       <WrongNetworkModal
         currentNetwork={state.chainId}

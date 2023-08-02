@@ -93,6 +93,7 @@
     "react-loading-skeleton": "^3.1.0",
     "react-markdown": "^7.1.2",
     "react-select": "^5.3.2",
+    "redux-saga": "^1.2.3",
     "remark-parse": "^9.0.0",
     "remark-stringify": "^9.0.1",
     "rollbar": "^2.26.1",

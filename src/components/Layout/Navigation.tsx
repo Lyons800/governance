@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react'
 
+import UserMenu, { UserMenuProps } from 'decentraland-gatsby/dist/components/User/UserMenu'
 import useAuthContext from 'decentraland-gatsby/dist/context/Auth/useAuthContext'
 import { Button } from 'decentraland-ui/dist/components/Button/Button'
-import { useMobileMediaQuery } from 'decentraland-ui/dist/components/Media/Media'
+import { NotMobile, useMobileMediaQuery } from 'decentraland-ui/dist/components/Media/Media'
 import { Popup } from 'decentraland-ui/dist/components/Popup/Popup'
 import { Tabs } from 'decentraland-ui/dist/components/Tabs/Tabs'
 
@@ -26,7 +27,7 @@ export enum NavigationTab {
   Debug = 'debug',
 }
 
-export type NavigationProps = {
+export type NavigationProps = UserMenuProps & {
   activeTab?: NavigationTab
 }
 
@@ -37,7 +38,7 @@ type DismissState = {
   isPopUpDismissed: boolean
 }
 
-const Navigation = ({ activeTab }: NavigationProps) => {
+const Navigation = ({ activeTab, ...props }: NavigationProps) => {
   const t = useFormatMessage()
   const [user] = useAuthContext()
 
@@ -118,6 +119,9 @@ const Navigation = ({ activeTab }: NavigationProps) => {
         </Tabs.Left>
         <Tabs.Right>
           <SearchInput />
+          <NotMobile>
+            <UserMenu {...props} />
+          </NotMobile>
         </Tabs.Right>
       </Tabs>
     </div>

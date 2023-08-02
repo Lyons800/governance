@@ -351,18 +351,18 @@
     "poi_title": "Point of Interest",
     "add_poi_title": "Add POI",
     "remove_poi_title": "Remove POI",
-    "poi_description": "Highlight a noteworthy Decentraland location on the map for others to find",
-    "add_poi_description": "Highlight a noteworthy Decentraland location on the map for others to find",
+    "poi_description": "Highlight a noteworthy Apecoin DAO location on the map for others to find",
+    "add_poi_description": "Highlight a noteworthy Apecoin DAO location on the map for others to find",
     "remove_poi_description": "Maybe a given location wasn’t noteworthy enough. We dare you try to put it down.",
     "ban_name_title": "Name Ban",
-    "ban_name_description": "Ban an offensive name from Decentraland",
+    "ban_name_description": "Ban an offensive name from Apecoin DAO",
     "grant_title": "Grant Request",
     "grant_description": "Request funding from the DAO for a project or contribution",
-    "grant_paused": "The Decentraland DAO Grants Program has been put on hold by community decision until February 28th, 2023. Please read [this governance proposal](https://governance.decentraland.org/proposal/?id=9f3b0be0-7e94-11ed-8750-cd1748a98b11) to learn more or visit the [DAO Discord Server](https://dcl.gg/dao-discord) to engage with members of the community.",
+    "grant_paused": "The Apecoin DAO Grants Program has been put on hold by community decision until February 28th, 2023. Please read [this governance proposal](https://governance.decentraland.org/proposal/?id=9f3b0be0-7e94-11ed-8750-cd1748a98b11) to learn more or visit the [DAO Discord Server](https://dcl.gg/dao-discord) to engage with members of the community.",
     "hiring_title": "Hiring",
     "hiring_description": "Request a Community member to be added or removed from a Committee",
     "hiring_add_title": "Add Committee Member",
-    "hiring_add_description": "Promote a noteworthy Decentraland citizen to be hired by the DAO",
+    "hiring_add_description": "Promote a noteworthy Apecoin DAO citizen to be hired by the DAO",
     "hiring_add_paused": "There are no open seats in any of the DAO Committees",
     "hiring_remove_title": "Remove Committee Member",
     "hiring_remove_description": "Suggest to demote a specific DAO member from their Committee duties",
@@ -373,7 +373,7 @@
     "governance_title": "Governance Proposal",
     "governance_description": "Formalize the passed version of a Draft Proposal into a binding governance outcome",
     "linked_wearables_title": "Linked Wearables Registry",
-    "linked_wearables_description": "Request to be admitted as an approved partner to create wearables as representations of your NFTs in Decentraland",
+    "linked_wearables_description": "Request to be admitted as an approved partner to create wearables as representations of your NFTs in Apecoin DAO",
     "pitch_title": "Pitch Proposal",
     "pitch_description": "Validate ideas to spawn new projects",
     "tender_title": "Tender Proposal",
@@ -525,10 +525,10 @@
         "about_title": "About",
         "links_title": "Links",
         "relevant_skills_title": "Relevant Skills",
-        "involvement_title": "Involvement with Decentraland",
+        "involvement_title": "Involvement with Apecoin DAO",
         "motivation_title": "Motivation to be a delegate",
-        "vision_title": "5-year vision for Decentraland",
-        "most_important_issue_title": "Most important issue in Decentraland",
+        "vision_title": "5-year vision for Apecoin DAO",
+        "most_important_issue_title": "Most important issue in Apecoin DAO",
         "show_more": "Show more",
         "show_less": "Show less",
         "back_button_label": "Go back to delegates list",
@@ -548,19 +548,19 @@
         "stats_match": "Match",
         "stats_match_helper": "This indicator displays the percentage of proposals where you and this Delegate voted choosing the same outcome",
         "stats_bar_mana": "Mana",
-        "stats_bar_mana_info": "**MANA Voting Power** comes from holding Decentraland's token MANA. 1 MANA = 1 VP",
+        "stats_bar_mana_info": "**MANA Voting Power** comes from holding Apecoin DAO's token MANA. 1 MANA = 1 VP",
         "stats_bar_land": "Land",
-        "stats_bar_land_info": "**LAND Voting Power** comes from owning Decentraland's LAND (NFT), not contained in an ESTATE. 1 LAND = 2,000 VP",
+        "stats_bar_land_info": "**LAND Voting Power** comes from owning Apecoin DAO's LAND (NFT), not contained in an ESTATE. 1 LAND = 2,000 VP",
         "stats_bar_name": "Names",
-        "stats_bar_name_info": "**NAMES Voting Power** comes from owning Decentraland's NAME (NFT). 1 NAME = 100 VP",
+        "stats_bar_name_info": "**NAMES Voting Power** comes from owning Apecoin DAO's NAME (NFT). 1 NAME = 100 VP",
         "stats_bar_delegated": "Delegated",
-        "stats_bar_delegated_info": "Anybody in Decentraland may delegate VP to any other account. Delegated VP is taken into consideration when voting only when the Delegator hasn't casted a vote on the same proposal.",
+        "stats_bar_delegated_info": "Anybody in Apecoin DAO may delegate VP to any other account. Delegated VP is taken into consideration when voting only when the Delegator hasn't casted a vote on the same proposal.",
         "stats_bar_estates": "Estates",
-        "stats_bar_estates_info": "**ESTATES Voting Power** comes from owning Decentraland's ESTATE. VP for ESTATEs is calculated by mutiplying the number on LANDs in a ESTATE * 2,000",
+        "stats_bar_estates_info": "**ESTATES Voting Power** comes from owning Apecoin DAO's ESTATE. VP for ESTATEs is calculated by mutiplying the number on LANDs in a ESTATE * 2,000",
         "stats_bar_l1_wearables": "L1 Wearables",
         "stats_bar_l1_wearables_info": "**L1 Wearables** from selected collections accounts for VP based on their level of rarity.",
         "stats_bar_rental": "LAND Rental",
-        "stats_bar_rental_info": "**LAND Rental Voting Power** comes from owning Decentraland's LAND or ESTATES (NFT), currently being rented. 1 LAND rented = 2,000 VP / 1 ESTATE rented = LANDs in an ESTATE * 2,000",
+        "stats_bar_rental_info": "**LAND Rental Voting Power** comes from owning Apecoin DAO's LAND or ESTATES (NFT), currently being rented. 1 LAND rented = 2,000 VP / 1 ESTATE rented = LANDs in an ESTATE * 2,000",
         "stats_bar_full_label": "{amount} VP ({percentage})",
         "stats_popup_percentage": "{percentage} of total VP held",
         "stats_initiatives_title": "Initiatives voted on",
@@ -603,7 +603,7 @@
       "action": "Edit"
     },
     "external_link_warning": {
-      "title": "Leaving Decentraland DAO",
+      "title": "Leaving Apecoin DAO",
       "description": "This link will take you to\n**{url}**\nAre you sure you want to go there?",
       "accept": "Follow link",
       "reject": "I've changed my mind"
@@ -613,7 +613,7 @@
       "selected_choice": "You're about to vote "
     },
     "identity_connect": {
-      "description": "**New Feature: Linked Profiles**\n\nEnhance your Profile by linking different third-party accounts used in the Decentraland DAO ecosystem.\n\nUsers with linked accounts will get an eye-catching indicator next to their username.",
+      "description": "**New Feature: Linked Profiles**\n\nEnhance your Profile by linking different third-party accounts used in the Apecoin DAO ecosystem.\n\nUsers with linked accounts will get an eye-catching indicator next to their username.",
       "connect_button": "Link Accounts",
       "cancel_button": "Maybe later"
     },
@@ -622,9 +622,9 @@
       "timer": "Time sensitive task. {time} left to complete",
       "timer_expired": "Signature expired. You'll have to start over.",
       "forum": {
-        "card_title": "Decentraland Forum",
-        "card_description": "Link your Decentraland profile to the comments you left on proposals.",
-        "title": "Decentraland Forum Account",
+        "card_title": "Apecoin DAO Forum",
+        "card_description": "Link your Apecoin DAO profile to the comments you left on proposals.",
+        "title": "Apecoin DAO Forum Account",
         "title_step_1": "1. Sign message",
         "description_step_1": "Use your web3 wallet to securely sign a message to start the linking process.",
         "action_step_1": "Sign",
@@ -648,7 +648,7 @@
         },
         "action": "Confirm link",
         "helper_loading": "Linking in progress...",
-        "success_text": "**Decentraland and Forum accounts linked successfully** 🎉\n\nNow the comments you left on Proposals will link to your Decentraland profile. Happy governance!",
+        "success_text": "**Apecoin DAO and Forum accounts linked successfully** 🎉\n\nNow the comments you left on Proposals will link to your Apecoin DAO profile. Happy governance!",
         "success_subtext": "Plus, you'll get a fancy icon next to your **username**",
         "success_button": "Take me to my Profile",
         "error_text": "**Governance and Forum accounts could not be linked**\n\nSomething happened. It must have been aliens, or a malevolent AI but we can't be sure.",
@@ -710,11 +710,11 @@
       "error_label": "There was an error."
     },
     "home": {
-      "title": "Decentraland DAO",
-      "description": "The governance hub for Decentraland. Create and vote on proposals that help shape the future of the metaverse.",
+      "title": "Apecoin DAO",
+      "description": "The governance hub for Apecoin DAO. Create and vote on proposals that help shape the future of the Apecoin Ecosystem.",
       "main_banner": {
-        "title": "Get involved and shape Decentraland’s future.",
-        "description": "The  DAO is a key component of the ecosystem and it is the consensus mechanism for defining the rules of the Decentraland's virtual world. Participate in the DAO and make your voice heard.",
+        "title": "Get involved and shape Apecoin DAO’s future.",
+        "description": "The  DAO is a key component of the ecosystem and it is the consensus mechanism for defining the rules of the Apecoin DAO's virtual world. Participate in the DAO and make your voice heard.",
         "discord_button": "Join our Discord",
         "docs_button": "Read our docs",
         "close_button_label": "Dismiss banner"
@@ -734,7 +734,7 @@
       },
       "open_proposals": {
         "title": "Open Proposals",
-        "description": "Proposals are created by the community and works as the consensus mechanism used to outline policies and changes to the Decentraland ecosystem. Learn more about them [here](https://docs.decentraland.org/decentraland/what-can-you-do-with-the-dao/).",
+        "description": "Proposals are created by the community and works as the consensus mechanism used to outline policies and changes to the Apecoin DAO. Learn more about them [here](https://apecoin.com/governance/).",
         "loading": "Fetching open proposals...",
         "ending_soon": "Ending soon",
         "by_user": "By ",
@@ -755,7 +755,7 @@
       },
       "active_community_grants": {
         "title": "Active Community Grants",
-        "description": "Grants are the mechanism that the DAO uses to fund community projects that add value to the Decentraland ecosystem with our Treasury. Read more about grants [here](https://docs.decentraland.org/decentraland/community-grants/).",
+        "description": "Grants are the mechanism that the DAO uses to fund community projects that add value to the Apecoin DAO ecosystem with our Treasury. Read more about grants [here](https://docs.decentraland.org/decentraland/community-grants/).",
         "view_all_grants": "View all Grants",
         "fetching": "Fetching active Community Grants..."
       },
@@ -798,7 +798,7 @@
       }
     },
     "welcome": {
-      "title": "Welcome to the Decentraland DAO",
+      "title": "Welcome to the Apecoin DAO",
       "description": "A quick-start guide to participating in the governance of Decentraland’s virtual world",
       "1_panel_title": "Welcome to the new DAO!",
       "1_panel_description": "The DAO is a voting platform where you can vote on (or create) specific proposals like banning names, highlighting interesting areas of the world on the map, adding community servers, creating polls, or even requesting a grant!",
@@ -881,8 +881,8 @@
       "governance_description": "Finalize the decision-making process in a binding proposal by submitting a comprehensive proposal with all relevant details for implementation."
     },
     "proposal_list": {
-      "title": "Decentraland DAO",
-      "description": "The governance hub for Decentraland. Create and vote on proposals that help shape the future of the metaverse.",
+      "title": "Apecoin DAO",
+      "description": "The governance hub for Apecoin DAO. Create and vote on proposals that help shape the future of the metaverse.",
       "new_proposal": "Submit a proposal",
       "categories": "Categories",
       "browse": "Browse",
@@ -900,7 +900,7 @@
     },
     "proposal_catalyst_list": {
       "title": "Catalyst Node Proposals",
-      "description": "Recent proposals to add new community-run servers to Decentraland"
+      "description": "Recent proposals to add new community-run servers to Apecoin DAO"
     },
     "proposal_poi_list": {
       "title": "Point of Interest Proposals",
@@ -908,11 +908,11 @@
     },
     "proposal_ban_name_list": {
       "title": "Name Ban Proposals",
-      "description": "Recent proposals to ban names from Decentraland"
+      "description": "Recent proposals to ban names from Apecoin DAO"
     },
     "proposal_poll_list": {
       "title": "Polls",
-      "description": "Recent community polls in the Decentraland DAO"
+      "description": "Recent community polls in the Apecoin DAO"
     },
     "coauthor_detail": {
       "pending_label": "Co-author request",
@@ -927,8 +927,8 @@
       "revert_label": "Revert"
     },
     "proposal_detail": {
-      "title": "Decentraland DAO",
-      "description": "The governance hub for Decentraland. Create and vote on proposals that help shape the future of the metaverse.",
+      "title": "Apecoin DAO",
+      "description": "The governance hub for Apecoin DAO. Create and vote on proposals that help shape the future of the metaverse.",
       "forum_button": "Discuss in the forum",
       "subscribe_button": "Add to my Watchlist",
       "subscribed_button": "Remove from my Watchlist",
@@ -1103,7 +1103,7 @@
         "current_update_info": "You must share a community update once every 30 days during your Grant period. Updates can be posted on the last 15 days of every 30-days period.",
         "next_update_due_date": "Next one due in **{date}**",
         "vesting_label": "Grant beneficiary",
-        "vesting_description": "**Funded by the Decentraland DAO**, enabled by its Community.",
+        "vesting_description": "**Funded by the Apecoin DAO**, enabled by its Community.",
         "vesting_button": "View vesting contract",
         "category_assessment": {
           "accelerator": {
@@ -1141,22 +1141,22 @@
             "total_events_label": "Number of Events",
             "total_attendance_label": "Intended Attendance",
             "audience_relevance_label": "Audience Assessment",
-            "showcase_label": "Decentraland's Brand Presence"
+            "showcase_label": "Apecoin DAO's Brand Presence"
           }
         }
       }
     },
     "grants": {
-      "title": "Decentraland DAO Community Grants",
-      "description": "Check the projects funded by the Decentraland DAO Grants program. Browse them to see their goals, progress, and how they are making an impact in our community.",
+      "title": "Apecoin DAO Community Grants",
+      "description": "Check the projects funded by the Apecoin DAO Grants program. Browse them to see their goals, progress, and how they are making an impact in our community.",
       "load_more_button": "Load more",
       "request_banner": {
         "title": "Get funded",
-        "description": "Decentraland could be the means to realize that project of yours",
+        "description": "Apecoin DAO could be the means to realize that project of yours",
         "button": "Request a Grant"
       },
       "current_banner": {
-        "title": "Initiatives making the Decentraland Ecosystem grow",
+        "title": "Initiatives making the Apecoin DAO Ecosystem grow",
         "description": "Every quarter, our Community defines Treasury funding allocation and distribution and projects to award Grants to. Keep browsing to see their goals, progress and how they are making an impact in our community.",
         "budget_title": "Budget Definition",
         "budget_description": "Review Quarterly Governance Proposal",
@@ -1167,7 +1167,7 @@
       },
       "past_banner": {
         "title": "See what the Community already achieved",
-        "description": "Check already finished Grant projects. Do your own due diligence, see how they performed and the value they added to Decentraland.",
+        "description": "Check already finished Grant projects. Do your own due diligence, see how they performed and the value they added to Apecoin DAO.",
         "completed_grants_title": "{value} Projects",
         "completed_grants_description": "Successfully completed Grants",
         "total_funding_title": "${value} USD",
@@ -1227,8 +1227,8 @@
       "no_comments_text": "No comments yet, you have the chance to be the first one!"
     },
     "profile": {
-      "title": "{address} | Decentraland DAO",
-      "empty_title": "Decentraland DAO",
+      "title": "{address} | Apecoin DAO",
+      "empty_title": "Apecoin DAO",
       "description": "Your profile within the DAO",
       "show_badges": "{amount} More",
       "badges_sidebar": {
@@ -1266,7 +1266,7 @@
       },
       "grants": {
         "title": "Grant beneficiary",
-        "info": "Grants that this account has authored or co-authored and have been approved and funded by the Decentraland DAO.",
+        "info": "Grants that this account has authored or co-authored and have been approved and funded by the Apecoin DAO.",
         "item_description": "Passed {time} with a budget of **{amount} {token}**",
         "item_short_description": "Passed {time} **{amount} {token}**",
         "cliff_period": "Cliff period: {count} {count, plural, one {day} other {days}} to go",
@@ -1328,7 +1328,7 @@
       "title": "Transparency",
       "mission": {
         "title": "Our Mission",
-        "description": "To support and facilitate the continual growth of the Decentraland platform.",
+        "description": "To support and facilitate the continual growth of the Apecoin DAO platform.",
         "join_discord_button": "Join our Discord",
         "docs_button": "Check our docs",
         "balance_title": "Current Balance",
@@ -1473,13 +1473,13 @@
       "add": {
         "title": "Add a Point of Interest",
         "coordinates_label": "What location do you want to add as a POI?",
-        "description_detail": "Why do you think that this location should be a featured point of interest within Decentraland? Please describe the scene located at these coordinates, explaining how it would be interesting or helpful for other Decentraland users.",
-        "description_placeholder": "The scene located at 0,0 is both visually stunning and informative for new users. The interactive tutorial hosted here would provide people with a fun and enjoyable way to learn more about Decentraland."
+        "description_detail": "Why do you think that this location should be a featured point of interest within Apecoin DAO? Please describe the scene located at these coordinates, explaining how it would be interesting or helpful for other Apecoin DAO users.",
+        "description_placeholder": "The scene located at 0,0 is both visually stunning and informative for new users. The interactive tutorial hosted here would provide people with a fun and enjoyable way to learn more about Apecoin DAO."
       },
       "remove": {
         "title": "Remove a Point of Interest",
         "coordinates_label": "What location do you want to remove as a POI?",
-        "description_detail": "Why do you think that this location should be removed as a featured point of interest within Decentraland? Please describe the scene located at these coordinates, explaining why it is no longer an interesting or helpful place for other Decentraland users.",
+        "description_detail": "Why do you think that this location should be removed as a featured point of interest within Apecoin DAO? Please describe the scene located at these coordinates, explaining why it is no longer an interesting or helpful place for other Apecoin DAO users.",
         "description_placeholder": "The scene located at 0,0 is no longer visually stunning for users. The location has been abandoned for a long time."
       },
       "description": "Points of interest (POIs) are scenes that have been highlighted on Decentraland’s map in a ‘pin drop’ form, helping other users to quickly find and access especially interesting areas.",
@@ -1527,13 +1527,13 @@
     "submit_catalyst": {
       "catalyst_add": {
         "title": "Add a catalyst node",
-        "description": "Instead of using central servers, Decentraland is run on a network of community operated nodes. These nodes store copies of all scenes deployed to Decentraland, and they handle the messaging and interactions by establishing peer-to-peer connections between users.",
+        "description": "Instead of using central servers, Apecoin DAO is run on a network of community operated nodes. These nodes store copies of all scenes deployed to Apecoin DAO, and they handle the messaging and interactions by establishing peer-to-peer connections between users.",
         "description_2": "To propose the addition of a new node, please provide the following details.",
         "description_detail": "Explain why this node should be added to the Catalyst network. Why would this addition be beneficial to the network? For example, adding nodes in new geographic areas helps to provide a better experience to more users."
       },
       "catalyst_remove": {
         "title": "Remove a catalyst node",
-        "description": "Instead of using central servers, Decentraland is run on a network of community operated nodes. These nodes store copies of all scenes deployed to Decentraland, and they handle the messaging and interactions by establishing peer-to-peer connections between users.",
+        "description": "Instead of using central servers, Apecoin DAO is run on a network of community operated nodes. These nodes store copies of all scenes deployed to Apecoin DAO, and they handle the messaging and interactions by establishing peer-to-peer connections between users.",
         "description_2": "To propose the removal of a node, please provide the following details.",
         "description_detail": "Explain why this node should be removed from the Catalyst network. Please, be as descriptive and objective as possible."
       },
@@ -1554,7 +1554,7 @@
     },
     "submit_grant": {
       "title": "Request a Grant",
-      "description": "Decentraland Grants allow MANA owned by the DAO to fund the creation of features or content beneficial to the Decentraland platform and its growth. Either individuals or teams may request grant funding through the DAO, and there are no constraints on the content or features that may be funded (within the bounds of Decentraland’s [Content Policy](https://decentraland.org/content)).\n\nFor your convenience and in preparation for your Grant Request you can download a file with all the questions present in this form [here](https://docs.google.com/document/d/1PSkV756XOUuAPPFlSu0LgqVy0QZ-DueeDj7MwSGRphc/edit#heading=h.xnwultcdr0as).",
+      "description": "Apecoin DAO Grants allow MANA owned by the DAO to fund the creation of features or content beneficial to the Apecoin DAO platform and its growth. Either individuals or teams may request grant funding through the DAO, and there are no constraints on the content or features that may be funded (within the bounds of Decentraland’s [Content Policy](https://decentraland.org/content)).\n\nFor your convenience and in preparation for your Grant Request you can download a file with all the questions present in this form [here](https://docs.google.com/document/d/1PSkV756XOUuAPPFlSu0LgqVy0QZ-DueeDj7MwSGRphc/edit#heading=h.xnwultcdr0as).",
       "cancel": "Cancel",
       "category_selection": {
         "description": "Choose a category that best suits your project",
@@ -1595,9 +1595,9 @@
         "title_label": "Title",
         "title_detail": "Provide a title that is concise and descriptive for your grant request. This title will appear as the header of your proposal’s detail page on the Governance dApp, our Snapshot space, and the Forum thread of your Proposal.",
         "title_placeholder": "Enter a descriptive title for your grant proposal here.",
-        "description": "Decentraland Grants allow the DAO’s MANA to fund the creation of features or content for the Decentraland platform. Either individuals or teams may apply within one of five categories, and there are six levels of funding for each category. Before submitting your grant proposal, please review the [Grants Framework](https://docs.decentraland.org/decentraland/community-grants/) here.\n\nAside from the requirements listed in the Grants Framework and Decentraland’s [Content Policy](https://decentraland.org/content), [Terms of Use](https://decentraland.org/terms), and [Code of Ethics](https://decentraland.org/ethics), there are no constraints on the content or features that may be funded.",
+        "description": "Apecoin DAO Grants allow the DAO’s MANA to fund the creation of features or content for the Apecoin DAO platform. Either individuals or teams may apply within one of five categories, and there are six levels of funding for each category. Before submitting your grant proposal, please review the [Grants Framework](https://docs.decentraland.org/decentraland/community-grants/) here.\n\nAside from the requirements listed in the Grants Framework and Decentraland’s [Content Policy](https://decentraland.org/content), [Terms of Use](https://decentraland.org/terms), and [Code of Ethics](https://decentraland.org/ethics), there are no constraints on the content or features that may be funded.",
         "description_label": "Description",
-        "description_detail": "Allows you to elaborate on why your project should receive funding, the problems that your project will solve, or the benefits it will bring to the Decentraland platform.",
+        "description_detail": "Allows you to elaborate on why your project should receive funding, the problems that your project will solve, or the benefits it will bring to the Apecoin DAO platform.",
         "abstract_label": "Abstract",
         "abstract_detail": "Please explain the key components of your project. This should include a description of the feature or content you want to create, what needs or goals your work may satisfy, and the skills or experience you have that will contribute to your success. This is your chance to make a good first impression on the community.",
         "abstract_placeholder": "Enter a quick, non-technical overview of your project here.",
@@ -1615,7 +1615,7 @@
       "category_assessment": {
         "title": "Category-Specific Assessment",
         "core_unit": {
-          "strategic_value_label": "How will your team provide strategic value to the Decentraland DAO?",
+          "strategic_value_label": "How will your team provide strategic value to the Apecoin DAO?",
           "impact_metrics_label": "List your impact metrics"
         },
         "platform": {
@@ -1653,7 +1653,7 @@
               "other": "Other"
             }
           },
-          "audience_relevance_label": "Tell us how your audience is relevant to Decentraland.",
+          "audience_relevance_label": "Tell us how your audience is relevant to Apecoin DAO.",
           "total_pieces_label": "How many pieces of content are you planning to generate?",
           "total_impact_label": "How many people do you plan to impact with this content?",
           "relevant_link_label": "Please provide links to your current social media channels"
@@ -1662,7 +1662,7 @@
           "event_type": {
             "label": "Event type",
             "choices": {
-              "online": "Online (outside of the Decentraland ecosystem)",
+              "online": "Online (outside of the Apecoin DAO ecosystem)",
               "offline": "Offline"
             }
           },
@@ -1679,8 +1679,8 @@
           "primary_source_funding_label": "Is this grant the primary source of funding for this event?",
           "total_events_label": "How many events are you planning to organize?",
           "total_attendance_label": "How many people are you expecting to attend?",
-          "audience_relevance_label": "How is your audience relevant to Decentraland?",
-          "showcase_label": "How is the Decentraland brand going to be showcased?"
+          "audience_relevance_label": "How is your audience relevant to Apecoin DAO?",
+          "showcase_label": "How is the Apecoin DAO brand going to be showcased?"
         },
         "accelerator": {
           "revenue_label": "Please describe your revenue generation model",
@@ -1714,7 +1714,7 @@
       "team": {
         "title": "Team",
         "members_label": "Members",
-        "members_detail": "Please list who will be working on this project and include an explicit overview of their relevant skillset and experience. You may provide links to portfolios or profiles to help the Decentraland community get to know who the DAO will be funding and how their backgrounds will contribute to your project’s success.",
+        "members_detail": "Please list who will be working on this project and include an explicit overview of their relevant skillset and experience. You may provide links to portfolios or profiles to help the Apecoin DAO community get to know who the DAO will be funding and how their backgrounds will contribute to your project’s success.",
         "add_member": "Add team member",
         "team_modal": {
           "title": "Adding a team member",
@@ -1748,7 +1748,7 @@
       "in_world_content_description": "Development of experiences aiming to improve user retention",
       "platform_description": "Creation of tools and applications extending our platform and ecosystem",
       "social_media_content_description": "Marketing efforts aiming to reach new users and keeping them engaged",
-      "sponsorship_description": "Supporting IRL initiatives targeting audiences relevant to Decentraland",
+      "sponsorship_description": "Supporting IRL initiatives targeting audiences relevant to Apecoin DAO",
       "tier_label": "Grant tier",
       "tier_placeholder": "Select a tier",
       "size_label": "Grant size",
@@ -1756,7 +1756,7 @@
     },
     "submit_linked_wearables": {
       "title": "Linked Wearables Registry",
-      "description": "Linked Wearables are a way to represent NFTs as Wearables in Decentraland. Third parties need to submit a proposal to be approved by the DAO in order to access the tool in the [Builder](https://builder.decentraland.org/) and get slots to submit the 3D models. By using this tool, you will be able to submit [NFTs as Wearables](https://governance.decentraland.org/proposal/?id=14e76cc0-2bc7-11ec-ac84-77607720a240) to be curated and made available for your NFT holders inside Decentraland.\n\nNote that after being approved, you will need to create an API with the endpoints described in this [Document](https://github.com/decentraland/adr/blob/main/docs/ADR-42-third-party-assets-integration.md#third-party-resolver).",
+      "description": "Linked Wearables are a way to represent NFTs as Wearables in Apecoin DAO. Third parties need to submit a proposal to be approved by the DAO in order to access the tool in the [Builder](https://builder.decentraland.org/) and get slots to submit the 3D models. By using this tool, you will be able to submit [NFTs as Wearables](https://governance.decentraland.org/proposal/?id=14e76cc0-2bc7-11ec-ac84-77607720a240) to be curated and made available for your NFT holders inside Apecoin DAO.\n\nNote that after being approved, you will need to create an API with the endpoints described in this [Document](https://github.com/decentraland/adr/blob/main/docs/ADR-42-third-party-assets-integration.md#third-party-resolver).",
       "name_label": "Name",
       "name_detail": "Please enter the name that represents your Project, Company or Community as a whole",
       "name_placeholder": "Enter the name here",
@@ -1774,7 +1774,7 @@
       "governance_detail": "Provide proof that you are the rightful owner or representative of the Project, Company or Community. Please share any links with relevant information. ",
       "governance_placeholder": "Provide proof here",
       "motivation_label": "Motivation",
-      "motivation_detail": "Why do you want to have your NFTs represented in Decentraland?",
+      "motivation_detail": "Why do you want to have your NFTs represented in Apecoin DAO?",
       "motivation_placeholder": "A brief motivation",
       "managers_label": "Managers",
       "managers_detail": "Addresses of the representatives that will Manage the tool. Note: Managers are the only ones allowed to add item representations and manage the tool",
@@ -1783,7 +1783,7 @@
       "url_placeholder": "Add a link here",
       "url_add": "Add another link",
       "programmatically_generated_label": "Is this collection programmatically generated?",
-      "programmatically_generated_description": "The collection you will upload to Decentraland as Linked Wearables is programmatically generated. This means the 3D models you will submit to Decentraland were made this way.",
+      "programmatically_generated_description": "The collection you will upload to Apecoin DAO as Linked Wearables is programmatically generated. This means the 3D models you will submit to Apecoin DAO were made this way.",
       "programmatically_generated_note": "In general, large collections of more than 5k NFTs are not created manually, they are systematically generated from individual traits that were designed individually. If your Linked Wearables Collection is made like this, share the details below.",
       "method_label": "Method",
       "method_detail": "Describe the method used to create the programmatic collection. If possible, share proof and links to the repository.",
@@ -1807,7 +1807,7 @@
       "target_audience_label": "Target audicence",
       "target_audience_detail": "Please describe the intended user of the proposed solution: their needs, concerns, motivations, etc.",
       "relevance_label": "Why is this relevant now?",
-      "relevance_detail": "Please explain why the Decentraland DAO should be spending money in this project. Specify market conditions, competitor, new technical developments and any other relevant factors you consider"
+      "relevance_detail": "Please explain why the Apecoin DAO should be spending money in this project. Specify market conditions, competitor, new technical developments and any other relevant factors you consider"
     },
     "submit_tender": {
       "title": "Tender proposal",
@@ -1817,7 +1817,7 @@
       "summary_label": "Summary",
       "summary_description": "Provide a high-level overview of the idea behind this tender and its connection to the original Pitch proposal.",
       "problem_statement_label": "Problem statement",
-      "problem_statement_description": "Describe the specific problem that this solution aims to solve for the Decentraland community.",
+      "problem_statement_description": "Describe the specific problem that this solution aims to solve for the Apecoin DAO community.",
       "technical_specification_label": "Technical specification",
       "technical_specification_description": "Outline how the execution team could implement this solution. Please note that this is not binding, and execution teams may propose a new technical pathway in their bid proposals.",
       "use_cases_label": "Use cases",
@@ -1866,12 +1866,12 @@
     },
     "delegate_banner": {
       "title": "Call for Delegates Open",
-      "description": "The Decentraland DAO is looking to get commited individuals on the spotlight to help them get more VP",
+      "description": "The Apecoin DAO is looking to get commited individuals on the spotlight to help them get more VP",
       "button_label": "Read more"
     },
     "proposal_update": {
       "title": "Publish New Grant Update",
-      "description": "Share your grant updates with the Decentraland Community. Use this space to talk about the progress but also to raise issues or blockers you might have with your project. Feel free to add any relevant information or links to demo what you’ve been up to.",
+      "description": "Share your grant updates with the Apecoin DAO Community. Use this space to talk about the progress but also to raise issues or blockers you might have with your project. Feel free to add any relevant information or links to demo what you’ve been up to.",
       "health_label": "Project Health",
       "on_track_label": "On Track",
       "at_risk_label": "At Risk",

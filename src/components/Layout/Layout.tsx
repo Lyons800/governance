@@ -30,17 +30,17 @@ export type LayoutProps = Omit<PageProps, 'children'> & {
 export default function Layout({ children, ...props }: LayoutProps) {
   const [, state] = useAuthContext()
 
-  const handleClickMenuOption = function (event: React.MouseEvent, section: string) {
-    if (!event.defaultPrevented) {
-      return {
-        place: 'navbar',
-        section,
-        menu: section.split('_'),
-      }
-    }
+  // const handleClickMenuOption = function (event: React.MouseEvent, section: string) {
+  //   if (!event.defaultPrevented) {
+  //     return {
+  //       place: 'navbar',
+  //       section,
+  //       menu: section.split('_'),
+  //     }
+  //   }
 
-    return null
-  }
+  //   return null
+  // }
 
   return (
     <>

@@ -3,9 +3,25 @@
   display: none;
 }
 
+/* .Navigation .dcl.tabs .NavigationLogo {
+  margin-right: 0;
+} */
+
+.Navigation .dcl.tabs-left {
+  display: flex;
+  align-items: center;
+}
+
 .Navigation .dcl.tab svg {
   margin-left: 4px;
   vertical-align: middle;
+}
+
+.NavigationLogo {
+  width: 36px;
+  height: 36px;
+  margin-right: 50px;
+  align-items: center;
 }
 
 @media (min-width: 768px) {

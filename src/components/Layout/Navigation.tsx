@@ -12,6 +12,7 @@ import useIsDebugAddress from '../../hooks/useIsDebugAddress'
 import useIsProfileValidated from '../../hooks/useIsProfileValidated'
 import locations from '../../utils/locations'
 import Link from '../Common/Typography/Link'
+import ApecoinLogo from '../Icon/ApecoinLogo'
 import Dot from '../Icon/Dot'
 import SearchInput from '../Search/SearchInput'
 
@@ -69,6 +70,8 @@ const Navigation = ({ activeTab, ...props }: NavigationProps) => {
     <div className="Navigation">
       <Tabs>
         <Tabs.Left>
+          <ApecoinLogo className="NavigationLogo" />
+
           <Link href={locations.home()}>
             <Tabs.Tab active={activeTab === NavigationTab.Home}>{t('navigation.home')}</Tabs.Tab>
           </Link>
